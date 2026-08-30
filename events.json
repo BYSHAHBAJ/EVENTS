@@ -1,8 +1,7 @@
 [
   {
     "title": "A21 Royale Pass",
-    "description": "Pre-Order Perks",
-    "type": "Royale Pass",
+    "type": "Pre-order Perks",
     "update_date": "2026-08-30 19:00:00",
     "status": "Upcoming",
     "region": "Global",
@@ -15,5 +14,22 @@
     "status": "Live",
     "region": "Global",
     "link": "https://www.pubgmobile.com/act/be6dc454f9987c/be6dc.html"
+  },
+  {
+    "title": "A19 Royale Pass",
+    "type": "Pre-Order Perks",
+    "update_date": "2026-04-30 18:00:00",
+    "status": "Live",
+    "region": "Global",
+    "link": "https://www.pubgmobile.com/act/b94d27b9934d3e08/6D04F62B.html"
+  },
+  {
+    "title": "A18 Royale Pass",
+    "type": "Pre-Order Perks",
+    "update_date": "2026-02-30 18:00:00",
+    "status": "Live",
+    "region": "Global",
+    "link": "https://www.pubgmobile.com/act/e85a29df57d6fe97/index_1_1A1377D231B.html"
   }
+  
 ]

@@ -1,20 +1,19 @@
 [
   {
-    "title": "A21 Royale Pass Event",
-    "description": "Latest Royale Pass event details",
+    "title": "A21 Royale Pass",
+    "description": "Pre-Order Perks",
     "type": "Royale Pass",
-    "date": "2026-08-30 19:00:00",
+    "update_date": "2026-08-30 19:00:00",
     "status": "Upcoming",
     "region": "Global",
     "link": "https://www.pubgmobile.com/act/be6dc454f9987c/be6dc.html"
   },
   {
-    "title": "Special Event",
-    "description": "Special event information",
-    "type": "Special Event",
-    "date": "2026-09-05 18:00:00",
+    "title": "A20 Royale Pass",
+    "type": "Pre-Order Perks",
+    "update_date": "2026-06-26 18:00:00",
     "status": "Live",
-    "reward": "Legendary Skin",
-    "link": "https://www.pubgmobile.com/pictures/PubgMusic/V460/V460_B0326EBDE65C74386D8D8C3DC4A717DE_FateMusic.png"
+    "region": "Global",
+    "link": "https://www.pubgmobile.com/act/be6dc454f9987c/be6dc.html"
   }
 ]
